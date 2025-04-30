@@ -26,7 +26,7 @@ This project analyzes somatic mutation data from The Cancer Genome Atlas (TCGA) 
 - Python 3
 - `pandas` for data manipulation
 - `matplotlib` for plotting
-- Jupyter Notebook / Google Colab
+- Jupyter Notebook 
 
 ---
 
@@ -40,3 +40,34 @@ This project analyzes somatic mutation data from The Cancer Genome Atlas (TCGA) 
 ---
 
 ## 📂 Repository Structure
+---
+
+## 📌 Example Visualizations
+
+![image](https://github.com/user-attachments/assets/dcea3323-7af6-471a-982d-43cc5855cb71)
+
+![image](https://github.com/user-attachments/assets/5fb6bdab-3842-4d14-8683-97c6d14d1077)
+
+
+---
+
+## 🧠 Summary
+
+- TP53 and PIK3CA are among the most commonly mutated genes in breast cancer
+- Mutation types vary by gene, with some showing high proportions of missense mutations
+- This workflow demonstrates mutation profiling using real-world cancer genomics data
+
+---
+
+## 🔜 Future Work
+
+- Extend analysis to additional TCGA cancer types
+- Build an interactive Streamlit dashboard
+- Integrate clinical metadata (e.g., survival, subtype)
+
+---
+
+## 👤 Author
+
+**Fenny Patel**  
+*Aspiring Bioinformatics Data Analyst*  

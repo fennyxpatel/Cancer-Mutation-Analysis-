@@ -17,7 +17,7 @@ This project analyzes somatic mutation data from The Cancer Genome Atlas (TCGA) 
 ##  Dataset
 
 - **Source**: [TCGA via cBioPortal](https://www.cbioportal.org/study/summary?id=brca_tcga)
-- **File Used**: `data_mutations.txt` (Mutation data in MAF format)
+- **File Used**: `data_mutations.txt` 
 
 ---
 

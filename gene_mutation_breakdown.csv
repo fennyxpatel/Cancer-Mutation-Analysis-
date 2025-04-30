@@ -1,0 +1,6 @@
+Hugo_Symbol,3'UTR,Frame_Shift_Del,Frame_Shift_Ins,In_Frame_Del,In_Frame_Ins,Intron,Missense_Mutation,Nonsense_Mutation,Silent,Splice_Region,Splice_Site
+CDH1,1,27,30,0,1,0,19,31,2,2,9
+MUC16,0,1,0,0,0,0,103,5,43,0,0
+PIK3CA,0,0,2,4,1,0,372,0,5,1,0
+TP53,0,42,13,5,0,0,197,47,4,1,22
+TTN,0,11,4,3,1,26,237,10,62,1,4

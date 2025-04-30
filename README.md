@@ -39,9 +39,6 @@ This project analyzes somatic mutation data from The Cancer Genome Atlas (TCGA) 
 
 ---
 
-##  Repository Structure
----
-
 ## Example Visualizations
 
 ![image](https://github.com/user-attachments/assets/dcea3323-7af6-471a-982d-43cc5855cb71)
@@ -59,15 +56,4 @@ This project analyzes somatic mutation data from The Cancer Genome Atlas (TCGA) 
 
 ---
 
-## Future Work
 
-- Extend analysis to additional TCGA cancer types
-- Build an interactive Streamlit dashboard
-- Integrate clinical metadata (e.g., survival, subtype)
-
----
-
-##  Author
-
-**Fenny Patel**  
-*Aspiring Bioinformatics Data Analyst*  
